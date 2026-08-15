@@ -1,0 +1,11 @@
+{
+  "event_id": "a1b2c3d4-e5f6-7a8b-9c0d-1e2f3a4b5c6d",
+  "verification_id": "v9x8w7v6-u5t4-s3r2-q1p0-o9n8m7l6k5j4",
+  "source": "ai",
+  "confidence": 0.91,
+  "timestamp": "2026-08-15T10:00:00Z",
+  "data": {
+    "model_version": "v2.1",
+    "image_hash": "abcdef1234567890"
+  }
+}
