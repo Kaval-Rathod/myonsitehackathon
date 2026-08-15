@@ -1,7 +1,8 @@
 # GreenLink 🌿
 ## Real-Time Carbon Credit Verification with Offline-First Conflict Resolution
 
-[Demo Video](#-demo) | [Architecture](#-architecture) | [Tests](#-verification-results) | [PRD Compliance](file:///c:/Users/Admin/Desktop/hackathon/docs/PRD_COMPLIANCE.md)
+#### [Watch the GreenLink Demo Video](https://drive.google.com/file/d/1A6Lv7jN7vaPRU-xf-dXPS3k4Nxie1SZZ/view?usp=sharing)
+ | [Architecture](#-architecture) | [Tests](#-verification-results) | [PRD Compliance](file:///c:/Users/Admin/Desktop/hackathon/docs/PRD_COMPLIANCE.md)
 
 ---
 
